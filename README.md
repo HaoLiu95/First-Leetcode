@@ -1,2 +1,3 @@
 # First-Leetcode
-First time to finish Leetcode
+
+The first session
